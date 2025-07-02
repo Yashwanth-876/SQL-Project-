@@ -22,9 +22,9 @@ coursera_project/
 ├── milk production.csv             # Milk production by state/year
 ├── cheese production.csv           # Cheese production (monthly or yearly)
 ├── coffoee production.csv          # Coffee production (likely a typo)
-├── egg production.csv              # Extra dataset (not used directly)
+├── egg production.csv              # Extra dataset
 ├── honey production.csv            # Honey production by state/year
-├── yougart.csv                     # Yogurt production (misspelled, should be yogurt)
+├── yougart.csv                     # Yogurt production 
 ├── state production.csv            # Overall state-wise production
 ├── README.md                       # This file
 
