@@ -18,15 +18,15 @@ The purpose is to apply SQL to analyze state-wise production data across differe
 
 ```text
 coursera_project/
-├── Coursera Project.sql            # SQL queries for all 10 questions
-├── milk production.csv             # Milk production by state/year
-├── cheese production.csv           # Cheese production (monthly or yearly)
-├── coffoee production.csv          # Coffee production (likely a typo)
-├── egg production.csv              # Extra dataset
-├── honey production.csv            # Honey production by state/year
-├── yougart.csv                     # Yogurt production 
-├── state production.csv            # Overall state-wise production
-├── README.md                       # This file
+├── Coursera Project.sql            # SQL queries for all 10 questions 
+├── milk production.csv           
+├── cheese production.csv      
+├── coffoee production.csv         
+├── egg production.csv              
+├── honey production.csv           
+├── yougart.csv                     
+├── state production.csv            
+├── README.md                       
 
 ---
 
