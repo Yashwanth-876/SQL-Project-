@@ -1,7 +1,7 @@
 # USDA SQL Agricultural Production Analysis Project
 
 This project involves working with agricultural datasets sourced from the **United States Department of Agriculture (USDA)** Open Data Portal.
-The purpose is to apply SQL to analyze state-wise production data across different agricultural commodities for various years.
+The purpose is to apply SQL to analyze state wise production data across different agricultural commodities for various years.
 
 ---
 
